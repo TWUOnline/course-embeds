@@ -6,6 +6,7 @@
 
 ### Grav Sites
 * [Faculty of Humanities and Social Sciences](https://raw.githubusercontent.com/TWUOnline/arts-master/master)
+* [Gist](https://twuonline.github.io/course-embeds/?basePath=https://gist.github.com/cmadland/dc999cf56c2fb57335a8b88498e2a3a3)
 
 ## MA Leadership
 ### Bookdown Sites
