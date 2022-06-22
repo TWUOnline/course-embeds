@@ -13,6 +13,7 @@
 * [LDRS663](https://twuonline.github.io/course-embeds/?basePath=https://raw.githubusercontent.com/ma-lead/ldrs663/main)
 * [LDRS664](https://twuonline.github.io/course-embeds/?basePath=https://raw.githubusercontent.com/ma-lead/ldrs664/master)
 
+<script src="https://gist.github.com/cmadland/dc999cf56c2fb57335a8b88498e2a3a3.js"></script>
 
 ## Technical Details
 
