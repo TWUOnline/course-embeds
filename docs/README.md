@@ -5,7 +5,7 @@
 ## Faculty of Humanities and Social Sciences
 
 ### Grav Sites
-* [Faculty of Humanities and Social Sciences](https://twuonline.github.io/course-embeds/?basePath=https://raw.githubusercontent.com/TWUOnline/arts-master/master)
+* [Faculty of Humanities and Social Sciences](https://raw.githubusercontent.com/TWUOnline/arts-master/master)
 
 ## MA Leadership
 ### Bookdown Sites
