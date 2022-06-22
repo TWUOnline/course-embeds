@@ -2,14 +2,16 @@
 
 > This is a one-stop collection of all the documentation for our current TWU Online course projects and where they are embedded, delivered by the magical documentation site generator Docsify.
 
-## All the Docs
+## Faculty of Humanities and Social Sciences
 
+### Grav Sites
 * [Faculty of Humanities and Social Sciences](https://twuonline.github.io/course-embeds/?basePath=https://raw.githubusercontent.com/TWUOnline/arts-master/master)
 
 ## MA Leadership
+### Bookdown Sites
 * [LDRS663](https://twuonline.github.io/course-embeds/?basePath=https://raw.githubusercontent.com/ma-lead/ldrs663/main)
-* [LDRS664](https://twuonline.github.io/course-embeds/?basePath=https://raw.githubusercontent.com/ma-lead/ldrs664/main)
-* [Docsify Open Publishing Starter Kit](https://TWUOnline.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/TWUOnline/docsify-open-publishing-starter-kit/main)
+* [LDRS664](https://twuonline.github.io/course-embeds/?basePath=https://raw.githubusercontent.com/ma-lead/ldrs664/master)
+
 
 ## Technical Details
 
