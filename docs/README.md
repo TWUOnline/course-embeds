@@ -4,17 +4,17 @@
 
 ## All the Docs
 
-* [Docsify Open Course Starter Kit](https://hibbitts-design.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main)
-* [Docsify Open MultiCourse Starter Kit](https://hibbitts-design.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-multicourse-starter-kit/main)
-* [Docsify Open Publishing Starter Kit](https://hibbitts-design.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main)
+* [Faculty of Humanities and Social Sciences](https://twuonline.github.io/course-embeds/?basePath=https://raw.githubusercontent.com/TWUOnline/arts-master/main)
+* [Docsify Open MultiCourse Starter Kit](https://TWUOnline.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/TWUOnline/docsify-open-multicourse-starter-kit/main)
+* [Docsify Open Publishing Starter Kit](https://TWUOnline.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/TWUOnline/docsify-open-publishing-starter-kit/main)
 
 ## Technical Details
 
-This is a customized [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) site which can render multiple remote Markdown files (i.e. a Markdown file in any GitHub repository).  
+This is a customized [Docsify Open Publishing Starter Kit](https://github.com/TWUOnline/docsify-open-publishing-starter-kit) site which can render multiple remote Markdown files (i.e. a Markdown file in any GitHub repository).  
 
-For example, to render a Markdown file named **README.md** (the expected default name) the URL would be https://paulhibbitts.github.io/test-docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main
+For example, to render a Markdown file named **README.md** (the expected default name) the URL would be https://paulhibbitts.github.io/test-docsify-project-docs/?basePath=https://raw.githubusercontent.com/TWUOnline/docsify-open-course-starter-kit/main
 
-To render a Markdown file with a name other than README.md, for example **topic-1.md**, the URL would be https://paulhibbitts.github.io/test-docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/docs&homepage=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/docs/chapter-1/topic-1.md#/
+To render a Markdown file with a name other than README.md, for example **topic-1.md**, the URL would be https://paulhibbitts.github.io/test-docsify-project-docs/?basePath=https://raw.githubusercontent.com/TWUOnline/docsify-open-publishing-starter-kit/main/docs&homepage=https://raw.githubusercontent.com/TWUOnline/docsify-open-publishing-starter-kit/main/docs/chapter-1/topic-1.md#/
 
 ---
 
